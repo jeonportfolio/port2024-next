@@ -22,20 +22,80 @@ const Intro = () => {
                     <span className="line"></span>
                 </div>
                 <div className="intro__text">
-                    <div className="text">
-                        <div>{introText.desc[0]}</div>
-                        <div>{introText.desc[1]}</div>
-                        <div>{introText.desc[2]}</div>
-                    </div>
-                    <div className="img">
-                       <Image
-                          src={introText.img}
-                          alt="어바웃미"
-                          width={300}
-                          height={300}
-                          style={{ width: "100%", height: "auto" }}
-                       />
-                    </div>
+                        <div className="text">
+                            <div>{introText.desc[0]}</div>
+                            <div>{introText.desc[1]}</div>
+                            <div>{introText.desc[2]}</div>
+                        </div>
+                        <div className="img">
+                           <Image
+                              src={introText.img}
+                              alt="어바웃미"
+                              width={300}
+                              height={300}
+                              style={{ width: "100%", height: "auto" }}
+                           />
+                        </div>
+                        <div className="mini__image">
+                                 <div className="img1">
+                                        <Image
+                                            src={introText.img}
+                                            alt="어바웃미"
+                                            width={300}
+                                            height={300}
+                                            style={{ width: "100%", height: "auto" }}
+                                         />  
+                                 </div>
+                
+                                 <div className="img2">
+                                         <Image
+                                            src={introText.img}
+                                            alt="어바웃미"
+                                            width={300}
+                                            height={300}
+                                            style={{ width: "100%", height: "auto" }}
+                                         />  
+                                 </div>
+                                 <div className="img3">
+                                         <Image
+                                            src={introText.img}
+                                            alt="어바웃미"
+                                            width={300}
+                                            height={300}
+                                            style={{ width: "100%", height: "auto" }}
+                                         />  
+                                 </div>
+                             </div>
+                            <div className="mini__image2">
+                                <div className="img4">
+                                        <Image
+                                            src={introText.img}
+                                            alt="어바웃미"
+                                            width={300}
+                                            height={300}
+                                            style={{ width: "100%", height: "auto" }}
+                                         />  
+                                </div>
+                            
+                                <div className="img5">
+                                        <Image
+                                            src={introText.img}
+                                            alt="어바웃미"
+                                            width={300}
+                                            height={300}
+                                            style={{ width: "100%", height: "auto" }}
+                                         />  
+                                </div>
+                                <div className="img6">
+                                        <Image
+                                            src={introText.img}
+                                            alt="어바웃미"
+                                            width={300}
+                                            height={300}
+                                            style={{ width: "100%", height: "auto" }}
+                                         />  
+                                </div>
+                            </div>
                 </div>
                 <div className="intro__lines bottom" aria-hidden="true">
                     <span className="line"></span>

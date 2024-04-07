@@ -35,8 +35,8 @@ export const headerNav = [
 ]
 
 export const introText = {
-    title:"port developer",
-    desc: ["talent is", "found at the end of the","effort"],
+    title:"FRONT DEVELOPER",
+    desc: ["사용기술스택 -> CLICK"],
     img: about
    
   }
