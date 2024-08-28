@@ -13,7 +13,7 @@ const Header = () => {
         <header id="header" role="banner">
             <div className="header__inner">
                 <div className="header__logo">
-                    <a href="/">portfolio<em>next.js</em></a>
+                    <a href="/">portfolio<em>next.js(Rainbow Mode)</em></a>
                 </div>
                 <nav 
                      className={`header__nav ${show ? "show" : ""}`}

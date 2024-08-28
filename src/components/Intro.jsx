@@ -36,64 +36,28 @@ const Intro = () => {
                               style={{ width: "100%", height: "auto" }}
                            />
                         </div>
-                        <div className="mini__image">
-                                 <div className="img1">
-                                        <Image
-                                            src={introText.img}
-                                            alt="어바웃미"
-                                            width={300}
-                                            height={300}
-                                            style={{ width: "100%", height: "auto" }}
-                                         />  
-                                 </div>
-                
-                                 <div className="img2">
-                                         <Image
-                                            src={introText.img}
-                                            alt="어바웃미"
-                                            width={300}
-                                            height={300}
-                                            style={{ width: "100%", height: "auto" }}
-                                         />  
-                                 </div>
-                                 <div className="img3">
-                                         <Image
-                                            src={introText.img}
-                                            alt="어바웃미"
-                                            width={300}
-                                            height={300}
-                                            style={{ width: "100%", height: "auto" }}
-                                         />  
-                                 </div>
+                            <div className="mini__image">
+                                    <div className="img1">
+                                        <p>REACT.JS</p>
+                                     </div>
+                                    <div className="img2">
+                                        <p>REACT NATIVE</p>
+                                    </div>
+
+
+                                    <div className="img3">
+                                        <p>NODE.JS </p>
+                                    </div>
                              </div>
                             <div className="mini__image2">
-                                <div className="img4">
-                                        <Image
-                                            src={introText.img}
-                                            alt="어바웃미"
-                                            width={300}
-                                            height={300}
-                                            style={{ width: "100%", height: "auto" }}
-                                         />  
+                                <div className="img1">
+                                    <p>REACT.JS</p>
                                 </div>
-                            
-                                <div className="img5">
-                                        <Image
-                                            src={introText.img}
-                                            alt="어바웃미"
-                                            width={300}
-                                            height={300}
-                                            style={{ width: "100%", height: "auto" }}
-                                         />  
+                                <div className="img2">
+                                    <p>REACT.JS</p>
                                 </div>
-                                <div className="img6">
-                                        <Image
-                                            src={introText.img}
-                                            alt="어바웃미"
-                                            width={300}
-                                            height={300}
-                                            style={{ width: "100%", height: "auto" }}
-                                         />  
+                                <div className="img3">
+                                    <p>NODE.JS </p>
                                 </div>
                             </div>
                 </div>
