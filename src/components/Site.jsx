@@ -18,10 +18,10 @@ const Site = () => {
                                <div>{site.text[1]}</div>
                                <div>{site.text[2]}</div>
                            </div>
-                           <h3 className="title">웹 표준을 준수한 사이트 제작</h3>
+                           <h3 className="title">{site.title}</h3>
                            <div className="btn">
-                               <a href={site.code}>code</a>
-                               <a href={site.view}>view</a>
+                               <a href={site.code} target="_blank" rel="noopener noreferrer">code</a>
+                               <a href={site.view} target="_blank" rel="noopener noreferrer">view</a>
                            </div>
                            <div className="info">
                                <span>{site.info[0]}</span>

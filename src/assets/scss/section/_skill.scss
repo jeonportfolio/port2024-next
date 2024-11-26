@@ -18,7 +18,7 @@
         font-family: var(--mainKor-font);
         text-transform: uppercase;
         color: var(--black);
-        border-bottom: 0.4vw solid var(--black100);
+        border-bottom: 0.2vw solid var(--black100);
 
         @media (max-width: 800px){
             width: 100%;
@@ -60,10 +60,26 @@
             text-decoration: underline;
             text-underline-position: under;
             margin-bottom: 1vw;
+            color: #cd181e;
+        }
+        h4 {
+            font-size: 1.3rem;
+            color:#890694;
         }
         p {
             margin-bottom: 30vh;
             font-size: 1.1rem;
+        }
+        .go {
+            background-color: #000;
+            color: #fff;
+            padding: 10px;
+            transition: all 0.5s;
+        }
+
+        .go:hover {
+           background-color: #bff4f6;
+           color: #000;
         }
     }
 

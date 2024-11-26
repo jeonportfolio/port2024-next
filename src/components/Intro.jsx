@@ -41,7 +41,7 @@ const Intro = () => {
                                         <p>REACT.JS</p>
                                      </div>
                                     <div className="img2">
-                                        <p>REACT NATIVE</p>
+                                        <p>JAVA SCRIPT</p>
                                     </div>
 
 
@@ -51,13 +51,13 @@ const Intro = () => {
                              </div>
                             <div className="mini__image2">
                                 <div className="img1">
-                                    <p>REACT.JS</p>
+                                    <p>HTML & CSS</p>
                                 </div>
                                 <div className="img2">
-                                    <p>REACT.JS</p>
+                                    <p>SQL</p>
                                 </div>
                                 <div className="img3">
-                                    <p>NODE.JS </p>
+                                    <p>TYPE SCRIPT </p>
                                 </div>
                             </div>
                 </div>
