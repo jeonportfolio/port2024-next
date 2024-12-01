@@ -75,7 +75,7 @@ export const introText = {
         text: ["VUE.JS", "Rainbow Mode", "Portfolio Site"],
         title: "Vue.js 포트폴리오(세번째 모드<다크 컨셉>)",
         code: "https://github.com/jeonportfolio/port2024-vue",
-        view: "/",
+        view: "https://jsuport-vue.netlify.app/",
         info: [
             "VUE.js portfolio",
             "use stack : Vue.js, SCSS, gsap",
