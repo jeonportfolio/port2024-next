@@ -103,8 +103,8 @@ export const portText = [
         title: "할 일 기록 사이트(REACT)",
         desc: "useReducer & useEffect & localstorage & context API 활용한 할일 기록 사이트 입니다.",
         img: port001,
-        code: "https://today-todo-react.netlify.app/",
-        view: "https://react-myyoutube.netlify.app",
+        code: "https://github.com/jeonportfolio/Todo-List-React",
+        view: "https://today-todo-react.netlify.app/",
         name: "REACT 할 일 기록 사이트",
     },
     {
