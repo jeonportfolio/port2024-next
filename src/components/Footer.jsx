@@ -31,7 +31,7 @@ const Footer = () => {
                     </div>
                 </div>
                 <div className="footer__right">
-                    © 2024 JSU<br />
+                    © 2025 JSU<br />
                     이 사이트는 NEXT.JS를 이용하여 제작하였습니다.
                 </div>
             </div>
